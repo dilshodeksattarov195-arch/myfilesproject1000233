@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercarse",
+        "uuid": 457379,
+        "checksum": "ycu2ac"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
